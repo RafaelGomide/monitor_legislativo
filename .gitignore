@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+monitor_*.xlsx
+debug_cn_page.html
