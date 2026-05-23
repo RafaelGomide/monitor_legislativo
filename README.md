@@ -136,7 +136,7 @@ Acesse `http://localhost:7860`
 ## 🧪 Testes
 
 ```bash
-# Testa os scrapers individualmente
+# Testa cada scraper individualmente
 python testa_scrapers.py
 python testa_scrapers.py --camara 2572690
 python testa_scrapers.py --senado 166666
